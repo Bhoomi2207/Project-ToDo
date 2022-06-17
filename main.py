@@ -1,3 +1,5 @@
+#flask file for the todo application
+
 from flask import *
 from SQLiteQueries import SQLiteData
 from datetime import datetime
